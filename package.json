@@ -27,7 +27,7 @@
     "promise": "8.0.1",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
-    "react-bootstrap": "^0.31.5",
+    "react-bootstrap": "^0.33.1",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.0.0",
     "react-intl": "^2.4.0",
