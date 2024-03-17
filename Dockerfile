@@ -22,7 +22,7 @@ COPY . .
 RUN npm run build
 
 # nginx state for serving content
-FROM nginx:alpine
+FROM nginx:1.25.4-alpine3.18
 
 EXPOSE 80
 
